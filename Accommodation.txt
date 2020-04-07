@@ -1,0 +1,10 @@
+123 Flat John-Smith 230576374 7000.50 Flacq Available 12-01-2020
+345 House Lewis-Hand 230578761 5000.00 Curepipe Available 09-01-2020
+567 Room Paul-O'Connor 230576375 3500.50 Port-Louis Not-Available 12-05-2020
+789 Shared-Room Mrs.Pauline 230576398 1000.00 Curepipe Available 08-02-2020
+987 Flat Helene-Petitprez 230576367 6000.99 Tamarin Not-Available 23-07-2020
+765 Flat Frederic-Daury 230575474 5999.99 Rose-Hill Available 12-03-2020
+543 House Sara-Kennedy 230579804 5000.50 Flacq Available 01-03-2020
+321 Flat Georgie-Wilson 230567378 10000.00 Flic-en-Flac Not-Available 09-09-2020
+112 Room Lara-Muroya 230598770 4500.50 Grand-Baie Available 01-01-2020
+556 Flat Omar-Mallik 230576985 20000.00 Mahebourg Available 05-02-2020
